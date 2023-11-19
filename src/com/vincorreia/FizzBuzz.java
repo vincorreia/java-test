@@ -13,7 +13,7 @@ public class FizzBuzz {
         }
 
         if (number % 5 == 0) {
-            return FizzBuzz.DIVISIBLE_BY_3;
+            return FizzBuzz.DIVISIBLE_BY_5;
         }
 
         return STR."\{number}";
